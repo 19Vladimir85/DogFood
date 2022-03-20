@@ -1,0 +1,23 @@
+.footer {
+    padding: 20px 150px;
+    display: flex;
+    align-items: center;
+    background-color: #ffe44d;
+  }
+  
+  .footer__column {
+    flex: 0 0 33%;
+    justify-content: center;
+  }
+  
+  .footer__copyright {
+    font-size: 12px;
+  }
+  
+  .left {
+    text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  }
